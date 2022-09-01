@@ -1,5 +1,8 @@
 hello,world
 first commit
 second commit
-switch master
+switch
+merge
+
+
 
